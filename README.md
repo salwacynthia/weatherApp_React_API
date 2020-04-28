@@ -1,3 +1,9 @@
+This is a Weather App where user can get Real time Temperature of Cities around the globe. The App is designed for mobile screens. The backgorund of the app changes with the temparature :) 
+## API 
+API from openweathermap.org
+## STACK
+React js, HTML, CSS, JavaScript, BootStrap 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
