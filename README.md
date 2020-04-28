@@ -2,7 +2,7 @@ This is a Weather App where user can get Real time Temperature of Cities around 
 ## API 
 API from openweathermap.org
 ## STACK
-React js, HTML, CSS, JavaScript, BootStrap 
+React js, HTML, CSS, BootStrap 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
